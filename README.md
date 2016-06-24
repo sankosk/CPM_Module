@@ -1,2 +1,5 @@
-# CPM_Module
-Module I had to deliver for a subject for the first semester: CPM
+## CPM Module
+
+A simple program I had to do for a subject of the first semester of this year.
+Is not the final version, is not fully tested, etc, etc, but its working correctly
+

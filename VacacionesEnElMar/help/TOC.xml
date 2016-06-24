@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+  
+  <tocitem text="EII Cruisers" target="introduccion" />
+  <tocitem text="Como ver los cruceros disponibles">
+	<tocitem text="Organizar los cruceros" target="organizar"/>
+	<tocitem text="Ver más información del crucero" target="descripcion"/>
+  </tocitem>
+
+  <tocitem text="Cómo reservar un crucero">
+	<tocitem text="Reservar inmediatamente" target="reservaInmediata"/>
+	<tocitem text="Reservar desde la ventana de información" target="reservaCompleta"/>
+  </tocitem>
+  
+  <tocitem text="La Aplicación">
+    <tocitem text="Ajustes del aspecto de la aplicacion" target="ajustes"/>
+	<tocitem text="Comprobar reserva" target="verificar"/>
+  </tocitem>
+
+</toc>
